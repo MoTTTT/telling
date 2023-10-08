@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>en</dc:language>
+    <dc:creator opf:role="aut">Bee-Ann Colley</dc:creator>
+    <dc:title>Telling</dc:title>
+    <meta content="1.9.2" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2023-01-21</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:cc724c88-469f-4c94-96da-aee68ce46b77</dc:identifier>
+    <meta name="cover" content="BAColley-SAPassport-1974.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Telling.css" href="Styles/Telling.css" media-type="text/css"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Somerset.xhtml" href="Text/Somerset.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TitlePage.xhtml" href="Text/TitlePage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="LondonInThe1920s.xhtml" href="Text/LondonInThe1920s.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Glasgow_TheFarEast.xhtml" href="Text/Glasgow_TheFarEast.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BackHometoLondon.xhtml" href="Text/BackHometoLondon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="DevonTheBeginning.xhtml" href="Text/DevonTheBeginning.xhtml" media-type="application/xhtml+xml"/>
+    <item id="China.xhtml" href="Text/China.xhtml" media-type="application/xhtml+xml"/>
+    <item id="TheWar.xhtml" href="Text/TheWar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="PickingUpthePieces.xhtml" href="Text/PickingUpthePieces.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BringingInEnoughMoney.xhtml" href="Text/BringingInEnoughMoney.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Education.xhtml" href="Text/Education.xhtml" media-type="application/xhtml+xml"/>
+    <item id="HappyDaysAndHorses.xhtml" href="Text/HappyDaysAndHorses.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BoardingSchool.xhtml" href="Text/BoardingSchool.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Nursing.xhtml" href="Text/Nursing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="BackToLondonAgain.xhtml" href="Text/BackToLondonAgain.xhtml" media-type="application/xhtml+xml"/>
+    <item id="GoodbyeToDevon.xhtml" href="Text/GoodbyeToDevon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Epigraph.xhtml" href="Text/Epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Epigraph.css" href="Styles/Epigraph.css" media-type="text/css"/>
+    <item id="BAColley-SAPassport-1974.jpg" href="Images/BAColley-SAPassport-1974.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo01-center.jpg" href="Images/Wendy-photo01-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo01-top-left.jpg" href="Images/Wendy-photo01-top-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo01-top-right.jpg" href="Images/Wendy-photo01-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo03-bottom.jpg" href="Images/Wendy-photo03-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo03-top-left.jpg" href="Images/Wendy-photo03-top-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo03-top-right.jpg" href="Images/Wendy-photo03-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo04-bottom-left.jpg" href="Images/Wendy-photo04-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo04-bottom-right.jpg" href="Images/Wendy-photo04-bottom-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo05-bottom-left.jpg" href="Images/Wendy-photo05-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo05-bottom-right.jpg" href="Images/Wendy-photo05-bottom-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo05-top-right.jpg" href="Images/Wendy-photo05-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo06-bottom.jpg" href="Images/Wendy-photo06-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo06-center.jpg" href="Images/Wendy-photo06-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo06-top.jpg" href="Images/Wendy-photo06-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo07-bottom.jpg" href="Images/Wendy-photo07-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo07-center.jpg" href="Images/Wendy-photo07-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo07-top.jpg" href="Images/Wendy-photo07-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo08-center.jpg" href="Images/Wendy-photo08-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo09-bottom.jpg" href="Images/Wendy-photo09-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo09-center.jpg" href="Images/Wendy-photo09-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo09-top-right.jpg" href="Images/Wendy-photo09-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo10-bottom-left.jpg" href="Images/Wendy-photo10-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo10-bottom-right.jpg" href="Images/Wendy-photo10-bottom-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo11-bottom.jpg" href="Images/Wendy-photo11-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo11-center.jpg" href="Images/Wendy-photo11-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo11-top-left.jpg" href="Images/Wendy-photo11-top-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo11-top-right.jpg" href="Images/Wendy-photo11-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo12-bottom.jpg" href="Images/Wendy-photo12-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo12-center.jpg" href="Images/Wendy-photo12-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo12-top-left.jpg" href="Images/Wendy-photo12-top-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo12-top-right.jpg" href="Images/Wendy-photo12-top-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo13-bottom.jpg" href="Images/Wendy-photo13-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo13-center-left.jpg" href="Images/Wendy-photo13-center-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo13-center-right.jpg" href="Images/Wendy-photo13-center-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo13-top.jpg" href="Images/Wendy-photo13-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo14-bottom-left.jpg" href="Images/Wendy-photo14-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo14-bottom-right.jpg" href="Images/Wendy-photo14-bottom-right.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo14-top.jpg" href="Images/Wendy-photo14-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo15-bottom.jpg" href="Images/Wendy-photo15-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo16-top.jpg" href="Images/Wendy-photo16-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo17-bottom.jpg" href="Images/Wendy-photo17-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo17-center.jpg" href="Images/Wendy-photo17-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo18-bottom.jpg" href="Images/Wendy-photo18-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo18-top.jpg" href="Images/Wendy-photo18-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo19-bottom.jpg" href="Images/Wendy-photo19-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo19-center.jpg" href="Images/Wendy-photo19-center.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo19-top.jpg" href="Images/Wendy-photo19-top.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo20-bottom.jpg" href="Images/Wendy-photo20-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo01-bottom.jpg" href="Images/Martin-photo01-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo02-bottom.jpg" href="Images/Martin-photo02-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo02-top.jpg" href="Images/Martin-photo02-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo03-center-bottom.jpg" href="Images/Martin-photo03-center-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo03-center-right.jpg" href="Images/Martin-photo03-center-right.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo04-bottom.jpg" href="Images/Martin-photo04-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo04-top.jpg" href="Images/Martin-photo04-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo05-bottom.jpg" href="Images/Martin-photo05-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo05-top.jpg" href="Images/Martin-photo05-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo07-bottom.jpg" href="Images/Martin-photo07-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo07-top.jpg" href="Images/Martin-photo07-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo08-bottom.jpg" href="Images/Martin-photo08-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo08-top.jpg" href="Images/Martin-photo08-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo09-top.jpg" href="Images/Martin-photo09-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo10-bottom.jpg" href="Images/Martin-photo10-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo10-top.jpg" href="Images/Martin-photo10-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo11-bottom.jpg" href="Images/Martin-photo11-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo13-bottom.jpg" href="Images/Martin-photo13-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo13-top.jpg" href="Images/Martin-photo13-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo14-bottom.jpg" href="Images/Martin-photo14-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo14-top.jpg" href="Images/Martin-photo14-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo15-center.jpg" href="Images/Martin-photo15-center.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo15-top.jpg" href="Images/Martin-photo15-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo16-bottom.jpg" href="Images/Martin-photo16-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo17-bottom.jpg" href="Images/Martin-photo17-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo17-top.jpg" href="Images/Martin-photo17-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo18-bottom-left.jpg" href="Images/Martin-photo18-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo18-bottom-right.jpg" href="Images/Martin-photo18-bottom-right.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo18-center.jpg" href="Images/Martin-photo18-center.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo18-top.jpg" href="Images/Martin-photo18-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo19-bottom.jpg" href="Images/Martin-photo19-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo19-center.jpg" href="Images/Martin-photo19-center.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo20-bottom.jpg" href="Images/Martin-photo20-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo21-bottom.jpg" href="Images/Martin-photo21-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo22-top.jpg" href="Images/Martin-photo22-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo23.jpg" href="Images/Martin-photo23.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo24-top.jpg" href="Images/Martin-photo24-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo25-top.jpg" href="Images/Martin-photo25-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo26-bottom.jpg" href="Images/Martin-photo26-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo26-top.jpg" href="Images/Martin-photo26-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo28-center.jpg" href="Images/Martin-photo28-center.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo28-top.jpg" href="Images/Martin-photo28-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo29.jpg" href="Images/Martin-photo29.jpg" media-type="image/jpeg"/>
+    <item id="Photos-Mabel_DearOldDad.xhtml" href="Text/Photos-Mabel_DearOldDad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-London_Kensington.xhtml" href="Text/Photos-London_Kensington.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-AnimalHouses_Construction.xhtml" href="Text/Photos-AnimalHouses_Construction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-Nashes_Monia_Bridget.xhtml" href="Text/Photos-Nashes_Monia_Bridget.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-Horses.xhtml" href="Text/Photos-Horses.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-BoardingSchool19.xhtml" href="Text/Photos-BoardingSchool19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-Nursing.xhtml" href="Text/Photos-Nursing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-BackToLondon-PrivateNursing.xhtml" href="Text/Photos-BackToLondon-PrivateNursing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-DocAndMum_GoodbyeToDevon.xhtml" href="Text/Photos-DocAndMum_GoodbyeToDevon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Photos-Doc.xhtml" href="Text/Photos-Doc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Wendy-photo01-bottom.jpg" href="Images/Wendy-photo01-bottom.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo22-bottom-left.jpg" href="Images/Martin-photo22-bottom-left.jpg" media-type="image/jpeg"/>
+    <item id="Wendy-photo17-top.jpg" href="Images/Wendy-photo17-top.jpg" media-type="image/jpeg"/>
+    <item id="Martin-photo27.jpg" href="Images/Martin-photo27.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="TitlePage.xhtml"/>
+    <itemref idref="Epigraph.xhtml"/>
+    <itemref idref="Somerset.xhtml"/>
+    <itemref idref="Photos-Mabel_DearOldDad.xhtml"/>
+    <itemref idref="LondonInThe1920s.xhtml"/>
+    <itemref idref="Glasgow_TheFarEast.xhtml"/>
+    <itemref idref="Photos-Doc.xhtml"/>
+    <itemref idref="BackHometoLondon.xhtml"/>
+    <itemref idref="Photos-London_Kensington.xhtml"/>
+    <itemref idref="DevonTheBeginning.xhtml"/>
+    <itemref idref="Photos-AnimalHouses_Construction.xhtml"/>
+    <itemref idref="China.xhtml"/>
+    <itemref idref="TheWar.xhtml"/>
+    <itemref idref="PickingUpthePieces.xhtml"/>
+    <itemref idref="Photos-Nashes_Monia_Bridget.xhtml"/>
+    <itemref idref="BringingInEnoughMoney.xhtml"/>
+    <itemref idref="Education.xhtml"/>
+    <itemref idref="HappyDaysAndHorses.xhtml"/>
+    <itemref idref="Photos-Horses.xhtml"/>
+    <itemref idref="BoardingSchool.xhtml"/>
+    <itemref idref="Photos-BoardingSchool19.xhtml"/>
+    <itemref idref="Nursing.xhtml"/>
+    <itemref idref="Photos-Nursing.xhtml"/>
+    <itemref idref="BackToLondonAgain.xhtml"/>
+    <itemref idref="Photos-BackToLondon-PrivateNursing.xhtml"/>
+    <itemref idref="GoodbyeToDevon.xhtml"/>
+    <itemref idref="Photos-DocAndMum_GoodbyeToDevon.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

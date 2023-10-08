@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:cc724c88-469f-4c94-96da-aee68ce46b77"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Telling</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>TELLING</text>
+      </navLabel>
+      <content src="Text/TitlePage.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>A Story to Tell</text>
+        </navLabel>
+        <content src="Text/Epigraph.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>SOMERSET</text>
+        </navLabel>
+        <content src="Text/Somerset.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>LONDON in the 1920's</text>
+        </navLabel>
+        <content src="Text/LondonInThe1920s.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>GLASGOW</text>
+        </navLabel>
+        <content src="Text/Glasgow_TheFarEast.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>THE FAR EAST</text>
+        </navLabel>
+        <content src="Text/Glasgow_TheFarEast.xhtml#sigil_toc_id_126"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>BACK HOME TO LONDON</text>
+        </navLabel>
+        <content src="Text/BackHometoLondon.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>DEVON, THE BEGINNING</text>
+        </navLabel>
+        <content src="Text/DevonTheBeginning.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>CHINA</text>
+        </navLabel>
+        <content src="Text/China.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>THE WAR</text>
+        </navLabel>
+        <content src="Text/TheWar.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>PICKING UP THE PIECES</text>
+        </navLabel>
+        <content src="Text/PickingUpthePieces.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>BRINGING IN ENOUGH MONEY</text>
+        </navLabel>
+        <content src="Text/BringingInEnoughMoney.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>EDUCATION</text>
+        </navLabel>
+        <content src="Text/Education.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>HAPPY DAYS, AND HORSES</text>
+        </navLabel>
+        <content src="Text/HappyDaysAndHorses.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>BOARDING SCHOOL</text>
+        </navLabel>
+        <content src="Text/BoardingSchool.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>BACK TO LONDON</text>
+        </navLabel>
+        <content src="Text/BoardingSchool.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>NURSING</text>
+        </navLabel>
+        <content src="Text/Nursing.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>BACK TO LONDON AGAIN</text>
+        </navLabel>
+        <content src="Text/BackToLondonAgain.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>GOODBYE TO DEVON</text>
+        </navLabel>
+        <content src="Text/GoodbyeToDevon.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
